@@ -1,0 +1,13 @@
+body{
+    font-family: 'Relaway', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.icon{
+    background-color: aqua;
+    padding-left: 50%;
+    padding-right: 50%;
+    padding-block: 10px;
+}
+
